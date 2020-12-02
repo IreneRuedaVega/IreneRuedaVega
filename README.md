@@ -30,6 +30,6 @@ const irene = {
 
 <a href="https://www.linkedin.com/in/ireneruedavega/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/-Linkedin-blue?logo=linkedin&logoColor=white"></a>
 
-<a href="mailto:ruedavega.irene@gmail.com" target="_blank"><img alt="Email" src="https://img.shields.io/badge/-Email-%c14438?logo=gmail&logoColor=white"></a>
+<a href="mailto:ruedavega.irene@gmail.com" target="_blank"><img alt="Email" src="https://img.shields.io/badge/-Email-red?logo=gmail&logoColor=white"></a>
 
 ![Twitter Follow](https://img.shields.io/twitter/follow/Irenelandia_?logoColor=%007ACC&style=social)
