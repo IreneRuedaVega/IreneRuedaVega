@@ -9,7 +9,6 @@ const irene = {
   pronouns: "she" | "her",
   askMeAbout: ["web dev", "tech", "education"],
   softKills: [creative thinking, empathy, listening skills, sense of humor, taking responsibility]
-  learning:
 };
 ```
 
