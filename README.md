@@ -15,7 +15,7 @@ const irene = {
 
 ### Tech & Tools
 
-<div align="center">
+<div align="left">
 <img src = "https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white"> 
 <img src = "https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white"> 
 <img src="https://img.shields.io/badge/-JavaScript-eed718?style=flat&logo=javascript&logoColor=ffffff"> 
@@ -28,8 +28,8 @@ const irene = {
 
 ### Get in touch
 
-<a href="https://www.linkedin.com/in/seguramaria/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/-Linkedin-%E7CBF8?logo=linkedin&logoColor=white"></a>
+<a href="https://www.linkedin.com/in/ireneruedavega/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/-Linkedin-blue?logo=linkedin&logoColor=white"></a>
 
-<a href="mailto:ruedavega.irene@gmail.com" target="_blank"><img alt="Email" src="https://img.shields.io/badge/-Email-%F5B0E3?logo=gmail&logoColor=white"></a>
+<a href="mailto:ruedavega.irene@gmail.com" target="_blank"><img alt="Email" src="https://img.shields.io/badge/-Email-%c14438?logo=gmail&logoColor=white"></a>
 
 ![Twitter Follow](https://img.shields.io/twitter/follow/Irenelandia_?logoColor=%007ACC&style=social)
